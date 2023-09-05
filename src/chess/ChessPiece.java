@@ -1,7 +1,7 @@
 package chess;
 
-import boardGame.Board;
-import boardGame.Piece;
+import boardgame.Board;
+import boardgame.Piece;
 
 public class ChessPiece extends Piece {
     private Color color;
